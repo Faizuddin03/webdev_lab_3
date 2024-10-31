@@ -1,0 +1,14 @@
+@font-face{
+    font-family: RR;
+    src: url('Renogare-Regular.otf') format('truetype');
+}
+
+@font-face{
+    font-family: BN;
+    src: url('BebasNeue-Regular.ttf') format('truetype');
+}
+
+@font-face{
+    font-family: SK;
+    src: url('Sirukota.ttf') format('truetype');
+}
