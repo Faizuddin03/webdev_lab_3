@@ -11,6 +11,7 @@
     min-height: 50px;
     box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.56);
     align-items: center;
+    justify-content: space-between;
 }
 .pic_bio_container {
     display: flex;
